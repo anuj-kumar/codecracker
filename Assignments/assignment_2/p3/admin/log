@@ -1,0 +1,20 @@
+cd /var/www/sharifjudge/tester;
+./tester.sh /var/www/sharifjudge/assignments/assignment_2/p3 'admin' 'code' 'code-6' cpp 0.5 1 50000 1048576 diff -bB 1 1 1 0 1
+Starting tester...
+Mon Dec 23 14:54:59 UTC 2013
+Language: cpp
+Time Limit: 0.5 s
+Memory Limit: 50000 kB
+Output size limit: 1048576 bytes
+EasySandbox: true
+C/C++ Shield: true
+Compiling as cpp
+Enabling EasySandbox
+EasySandbox is not built. Disabling EasySandbox...
+Enabling Shield For C/C++
+Compiled. Exit Code=0
+
+Testing...
+0 Tests Cases
+
+Score from 10000: 
